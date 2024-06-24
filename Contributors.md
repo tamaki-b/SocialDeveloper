@@ -494,7 +494,6 @@ Tomoya Okuno, motonuko<br/>
 2411097 - Yuji Kitano<br/>
 2411129 - Keisuke Sato <br/>
 2411189 - Takumi Tsurugai <br/>
-2411180 - Tomoki Chinen <br/>
 2411130 - Takuma Sato <br/>
 2411111 - Sosui Koga <br/>
 2411286 - Kiyotada Mori <br>
