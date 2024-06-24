@@ -510,6 +510,7 @@ Tomoya Okuno, motonuko<br/>
 2411211 - Ibuki Nakamura <br/>
 2411294 - Kazuma Yamasaki <br/>
 2411214 - Kazuki Nagayama <br/>
+2411180 - Tomoki Chinen <br/>
 2411112 - Shuhei Kosaka <br/>
 2411014 - Atsuya Ikeno <br/>
 2411045 - Atsushi Ohta <br/>
