@@ -435,6 +435,7 @@ Minoru Ishihara - MinoruIshihara
 2311224 - Kazuki Hayashi <br/>
 2311226 - Hideki Hayashi <br/>
 2111001 - Yuta Aishima <br/>
+2311404 - An Zhiting - githubid: anzhitingg
 2311034 - Yoshihisa Ito <br/>
 2111190 - Kotaro James Nishimura <br/>
 2211421 - Wang Zihang<br/>
