@@ -542,6 +542,9 @@ Tomoya Okuno, motonuko<br/>
 2411066 - Shintaro Ozaki <br/>
 2411264 - Issei Matsumoto </br>
 2411271 - Nanako Miyai <br/>
+2411110 - Riku Koizumi </br>
+2411271 - Nanako Miyai <br/>
+2311429 - Tuwaemuesa Thapakorn - thapakorn604 <br/>
 2311424 - Rahman Md Mustafizur <br/>
 2411255 - Kosei Horikawa <br/>
 2311416 - Zhongxue Liu <br/>
