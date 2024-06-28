@@ -545,6 +545,7 @@ Tomoya Okuno, motonuko<br/>
 2411066 - Shintaro Ozaki <br/>
 2411306 - Daiki Yoshida <br/>
 2411264 - Issei Matsumoto </br>
+2411247 - Shun Fujita <br/>
 2411271 - Nanako Miyai <br/>
 2411029 - Takumi Iwakuni <br/>
 2411278 - Yusei Miyoshi <br/>
