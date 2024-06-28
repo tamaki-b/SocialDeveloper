@@ -1,5 +1,6 @@
 studentID - username <br/>
 2311065 - Otsubo Hiromu<br/>
+2411262 - Kanta Matsubara<br/>
 2411088 - Kikuta Masaru <br/>
 2411261 - Matsuzaki Yuhi<br/>
 2411050 - Hien Onaka<br/>
@@ -547,6 +548,7 @@ Tomoya Okuno, motonuko<br/>
 2411066 - Shintaro Ozaki <br/>
 2411306 - Daiki Yoshida <br/>
 2411264 - Issei Matsumoto </br>
+2411271 - Nanako Miyai <br/>
 2411325 - Yuya Ide <br/>
 2411271 - Nanako Miyai <br/>
 2411149 - Shinkawa Shuan <br/>
