@@ -494,7 +494,9 @@ Tomoya Okuno, motonuko<br/>
 2411245 - Naoki Fujieda <br/>
 2411097 - Yuji Kitano<br/>
 2411129 - Keisuke Sato <br/>
+2411049 - Hiroto Otake (Hir0to25)<br/>
 2411189 - Takumi Tsurugai <br/>
+2411339 - Maria riera <br/>
 2411130 - Takuma Sato <br/>
 2411111 - Sosui Koga <br/>
 2411286 - Kiyotada Mori <br>
@@ -503,6 +505,9 @@ Tomoya Okuno, motonuko<br/>
 2411111 - Sosui Koga <br/>
 2411299 - Hisashi Yashima <br/>
 2411218 - Daisuke Narita <br/>
+2411087 - Arisa Kandori <br/>
+2311421 - Oyebode Oluwatobi Oyewale <br/>
+2411138 - Ryosuke Shigeto <br/>
 2311423 - P.K Ashmari Pramodya </br>
 2311030 - Yuki Ichihara <br/>
 2411119 - Shusuke Komatsu <br/>
@@ -519,4 +524,6 @@ Tomoya Okuno, motonuko<br/>
 2411218 - Daisuke Narita <br/>
 2411066 - Shintaro Ozaki <br/>
 2411264 - Issei Matsumoto </br>
+2411271 - Nanako Miyai <br/>
+2411110 - Riku Koizumi </br>
 2411271 - Nanako Miyai <br/>
