@@ -8,6 +8,7 @@ studentID - username <br/>
 2411314 - Miku Watanabe , mmikuu
 2411341 - zhou wangzixi - 37integer <br/>
 2311062 - Toi Ooka<br/>
+2411325 - Yuya Ide <br/>
 2311245 - Koki Hori<br/>
 2411317 - CHENG YUANHAU<br/>
 2411043 - Motoharu Okuma<br/>
