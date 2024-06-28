@@ -17,6 +17,7 @@ studentID - username <br/>
 2311250 - Taichi Maeda
 2311020 - Riku Ikeuchi <br/>
 2311038 - Takuya Imasawa <br/>
+2311417 - Liu Jingxuan <br/>
 2311038 - Takuya Imasawa(Pull request again on June 11th) <br/>
 2311280 - Yasuhito Morikawa <br/>
 2311133 - Kohei Sawano <br/>
@@ -544,6 +545,8 @@ Tomoya Okuno, motonuko<br/>
 2411066 - Shintaro Ozaki <br/>
 2411306 - Daiki Yoshida <br/>
 2411264 - Issei Matsumoto </br>
+2411271 - Nanako Miyai <br/>
+2411110 - Riku Koizumi </br>
 2411271 - Nanako Miyai <br/>
 2311415 - Sila Lertbanjongngam <br/>
 2411110 - Riku Koizumi </br>
