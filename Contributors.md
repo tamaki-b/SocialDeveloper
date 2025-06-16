@@ -583,4 +583,4 @@ Tomoya Okuno, motonuko<br/>
 2411110 - Riku Koizumi </br>
 2311406 - Rownak - 3207-Rhims </br>
 2311428 - Syafrudin Rais Akhdan(neozoxix) </br>
-2511092 - Ryosei Kuge <br/>
+2511092 - Ryosei Kuge(githubid is nobRe03) <br/>
