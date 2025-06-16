@@ -7,6 +7,7 @@ studentID - username <br/>
 2411126 - Shota Sakoda<br/>
 2411124-Chihiro Sakai<br/>
 2411314 - Miku Watanabe , mmikuu
+2511074 - Rintaro Kanaji <br/>
 2411341 - zhou wangzixi - 37integer <br/>
 2311062 - Toi Ooka<br/>
 2411325 - Yuya Ide <br/>
@@ -37,6 +38,7 @@ studentID - username <br/>
 2211355 - Kazutomo Nakamura <br/>
 2311241 - Kazuma Fujiwara <br/>
 2311307 - Miki Yonekura <br/>
+2511341 - Shum Kit May <br/>
 2011431 - Zhu Guangxian <br/>
 2011428 - Yongxin Zhang <br/>
 2111293 - Ryoseki Ri <br/>
@@ -578,6 +580,7 @@ Tomoya Okuno, motonuko<br/>
 2411255 - Kosei Horikawa <br/>
 2311416 - Zhongxue Liu <br/>
 2411076 - riku kato
+2411424 - Riza Setiawan Soetedjo - rizstwn <br/>
 2411238 - Momoka Hirose <br/>
 2311211 - r-nishioka <br/>
 2411110 - Riku Koizumi </br>
