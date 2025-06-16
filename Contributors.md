@@ -25,6 +25,7 @@ studentID - username <br/>
 2311020 - Riku Ikeuchi <br/>
 2311038 - Takuya Imasawa <br/>
 2311417 - Liu Jingxuan <br/>
+2511214 - Yota Nagaya <br/>
 2311038 - Takuya Imasawa(Pull request again on June 11th) <br/>
 2311280 - Yasuhito Morikawa <br/>
 2311133 - Kohei Sawano <br/>
