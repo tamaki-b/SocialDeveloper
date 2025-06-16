@@ -1,5 +1,6 @@
 studentID - username <br/>
 2311065 - Otsubo Hiromu<br/>
+2511055 - Hikaru OKAMOTO <br/>
 2411262 - Kanta Matsubara<br/>
 2411088 - Kikuta Masaru <br/>
 2411261 - Matsuzaki Yuhi<br/>
@@ -586,4 +587,5 @@ Tomoya Okuno, motonuko<br/>
 2411110 - Riku Koizumi </br>
 2311406 - Rownak - 3207-Rhims </br>
 2311428 - Syafrudin Rais Akhdan(neozoxix) </br>
+2511055 - Hikaru Okamoto </br>
 2411093 - Koki Kitajima </br>
