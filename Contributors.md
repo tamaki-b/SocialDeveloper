@@ -15,6 +15,7 @@ studentID - username <br/>
 2411325 - Yuya Ide <br/>
 2311245 - Koki Hori<br/>
 2411317 - CHENG YUANHAU<br/>
+2511176 - Masatoshi Tani - MAAAARCY <br/>
 2411043 - Motoharu Okuma<br/>
 2411019 - Hayato Ide<br/>
 2211421 - Wang Zihang<br/>
@@ -589,6 +590,7 @@ Tomoya Okuno, motonuko<br/>
 2511145 - Ayane Shirakawa </br>
 2311406 - Rownak - 3207-Rhims </br>
 2311428 - Syafrudin Rais Akhdan(neozoxix) </br>
+2511176 - Masatoshi Tani - MAAAARCY <br/>
 2511014 - Takuto-Ando <br/>
 2511055 - Hikaru Okamoto </br>
 2411093 - Koki Kitajima </br>
