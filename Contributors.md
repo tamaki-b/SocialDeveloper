@@ -5,6 +5,7 @@ studentID - username <br/>
 2411261 - Matsuzaki Yuhi<br/>
 2411050 - Hien Onaka<br/>
 2411126 - Shota Sakoda<br/>
+2511270 - Moeka Makabe<br/>
 2411124-Chihiro Sakai<br/>
 2411314 - Miku Watanabe , mmikuu
 2411341 - zhou wangzixi - 37integer <br/>
@@ -485,7 +486,7 @@ Tomoya Okuno, motonuko<br/>
 2311294 - rfLENtlr <br/>
 2311188 - Nagae Marimo <br/>
 2311091 - Ayuki Katayama <br/>
-2311182 - Tokunaga  Rin <br/>
+2311182 - Tokunaga Rin <br/>
 2411299 - Yamada Junya <br/>
 2411013 - Ikeda Ryota <br/>
 2311182 - Tokunaga Rin <br/>
