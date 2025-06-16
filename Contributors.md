@@ -37,6 +37,7 @@ studentID - username <br/>
 2211355 - Kazutomo Nakamura <br/>
 2311241 - Kazuma Fujiwara <br/>
 2311307 - Miki Yonekura <br/>
+2511341 - Shum Kit May <br/>
 2011431 - Zhu Guangxian <br/>
 2011428 - Yongxin Zhang <br/>
 2111293 - Ryoseki Ri <br/>
